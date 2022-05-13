@@ -1,7 +1,8 @@
-layout: page
+---
+layout: "page"
 title: "LITERALLY EPIC WEBSITE"
 permalink: /epic/
-
+---
 # crypto-coprocessor
 
 A cryptographic coprocessor (CCP) written in Verilog HDL.
