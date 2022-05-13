@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: page
 title: "LITERALLY EPIC WEBSITE"
 permalink: /epic/
 ---
